@@ -17,5 +17,5 @@ MainWindow::~MainWindow()
 
 void MainWindow::initData()
 {
-    int ia = 0;
+    char ia = 0;
 }
